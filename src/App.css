@@ -1,0 +1,13 @@
+body {
+  background-image: linear-gradient(to bottom, black, rgb(41, 29, 1));
+  background-size: cover; /* Ensures the image covers the full screen */
+  background-repeat: no-repeat; /* Prevents the image from repeating */
+  background-position: center center; /* Centers the image */
+  background-attachment: fixed; /* Makes the background static */
+  -webkit-user-drag: none; /* Prevents dragging in WebKit-based browsers */
+  user-drag: none; /* General non-dragging */
+  font-family: "Roboto Condensed", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  color: white;
+}
