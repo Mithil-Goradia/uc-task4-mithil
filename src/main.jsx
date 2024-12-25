@@ -7,7 +7,7 @@ import Home from './pages/Home.jsx';
 import Products from './pages/Products.jsx';
 import Reviews from './pages/Reviews.jsx';
 import { AnimatePresence } from 'framer-motion';
-import Products2 from './pages/products2.jsx';
+import Products2 from './pages/Products2.jsx';
 import View from './pages/View.jsx';
 import Login from './pages/Login.jsx';
 import { AuthProvider } from './pages/AuthContext.jsx';
